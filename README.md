@@ -2,7 +2,6 @@
 
 ## Aim:
 To explore the Hands-on UI/UX Experiments
-
 ## Algorithm:
 1.Learn the Basics Understand what UI (visual design) and UX (user experience) mean, and why both are important.
 
@@ -12,9 +11,8 @@ To explore the Hands-on UI/UX Experiments
 
 4.Try Design Tools Practice with tools like Figma or Adobe XD to create and test your own designs
 
-
 ## Output:
-https://github.com/user-attachments/files/20541170/UIUX.Experiment1.pdf
+[UIUX.Experiment1.pdf](https://github.com/user-attachments/files/20541170/UIUX.Experiment1.pdf)
 
 ## Result:
 The aim is completed and verified.
